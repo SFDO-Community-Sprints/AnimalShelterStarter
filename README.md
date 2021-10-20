@@ -14,3 +14,11 @@ To work on this project in a scratch org:
 1. [Set up CumulusCI](https://cumulusci.readthedocs.io/en/latest/tutorial.html)
 2. Run `cci flow run dev_org --org dev` to deploy this project.
 3. Run `cci org browser dev` to open the org in your browser.
+
+
+Hub Group Link
+https://powerofus.force.com/s/group/0F91E0000000iEXSAY/animal-shelter-starter-pack
+
+Project Resources and Documentation
+Documentation can be found in the repository links under accomplishments and in the wiki site https://github.com/SFDO-Community-Sprints/AnimalShelterStarter/wiki
+
