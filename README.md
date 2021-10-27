@@ -6,14 +6,7 @@ The Solution Development team within Salesforce have configured Animal, Treatmen
 
 Animal Shelter Starter is built to scale with your organisation, providing you with a foundation to begin managing your animals from rescue to recovery and beyond. Utilising the Salesforce platform, you will be able to take full control of your operations with the power of the world’s leading CRM.
 
-
-## Development
-
-To work on this project in a scratch org:
-
-1. [Set up CumulusCI](https://cumulusci.readthedocs.io/en/latest/tutorial.html)
-2. Run `cci flow run dev_org --org dev` to deploy this project.
-3. Run `cci org browser dev` to open the org in your browser.
+This forked repo is for collaborating on work as part of the Salesforce.org Open Source Community Sprint events, part of the Open Source Commons program. For package development work, please see https://github.com/SalesforceLabs/AnimalShelterStarter
 
 
 Hub Group Link
